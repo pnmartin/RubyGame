@@ -1,6 +1,6 @@
 # RubyGame
 
-## Necessary Packages
+A ruby based game that allows the user to attempt to match randomly generated rgb values. "Show" displays the target values and "Check" allows the user to compare the values, resulting in a 'win page' if all three values are the same.
 
 
 ### Example of game play
